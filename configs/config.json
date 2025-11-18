@@ -1,0 +1,11 @@
+{
+  "telegram_bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "telegram_group_id": "YOUR_LOG_GROUP_ID",
+  "telegram_user_data_group_id": "YOUR_USER_DATA_GROUP",
+  "instagram_username": "YOUR_INSTA_USERNAME",
+  "instagram_password": "YOUR_INSTA_PASSWORD",
+  "chatgpt_api_key": "YOUR_CHATGPT_API",
+  "gemini_api_key": "YOUR_GEMINI_API",
+  "admin_password": "1234",
+  "idle_ai_seconds": 10
+}
