@@ -1,0 +1,31 @@
+{
+  "fast": {
+    "/admin": "Admin mode on",
+    "/start": "Commands ready",
+    "/reel": "Reel sent",
+    "/bio": "Bio updated",
+    "/profile_pic": "DP changed",
+    "/profile_link": "Link added",
+    "/poxn": "Sending videos",
+    "/pozn": "Links sent",
+    "/admin_pozn": "Updated",
+    "/info": "Info sent",
+    "/admin_info": "Info updated",
+    "/ai": "AI active",
+    "/ai_stop": "AI off",
+    "/img": "Image sent",
+    "/friend": "Photo sent",
+    "/school": "List ready",
+    "edit": "Editing image...",
+    "post": "Post uploaded",
+    "follow": "Followed",
+    "unfollow": "Unfollowed",
+    "/joke": "Joke sent",
+    "/love": "Love pack sent",
+    "poxn2": "Loading media",
+    "/dead": "Bot shutting down"
+  },
+
+  "ai_message": "AI ON: Edit photos, write captions, generate ideas, smart replies. Send task.",
+  "ban_message": "You are anonymous"
+}
